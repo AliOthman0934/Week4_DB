@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.2.1"
+  },
+  "name": "week4_db",
+  "description": "",
+  "version": "1.0.0",
+  "main": "recipes.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "author": "",
+  "license": "ISC"
+}
